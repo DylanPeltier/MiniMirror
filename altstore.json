@@ -4,7 +4,6 @@
   "description": "Here you'll find all of the apps built by Dilly.",
   "iconURL": "https://i.imgur.com/x2CEaMn.png",
   "website": null,
-  "patreonURL": null,
   "tintColor": "#0070dd",
   "featuredApps": [],
   "headerURL": "https://i.imgur.com/125uLYH.png",
@@ -36,8 +35,7 @@
         "privacy": {
           "NSCameraUsageDescription": "Need camera access to act as a mirror."
         }
-      },
-      "patreon": {}
+      }
     }
   ],
   "news": []
