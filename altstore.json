@@ -4,7 +4,7 @@
   "description": "Here you'll find all of the apps built by Dilly.",
   "iconURL": "https://i.imgur.com/x2CEaMn.png",
   "website": null,
-  "patreonURL": "",
+  "patreonURL": null,
   "tintColor": "#0070dd",
   "featuredApps": [],
   "headerURL": "https://i.imgur.com/125uLYH.png",
@@ -12,7 +12,7 @@
     {
       "name": "MiniMirror",
       "bundleIdentifier": "com.dylanpeltier.MiniMirror",
-      "marketplaceID": "",
+      "marketplaceID": null,
       "developerName": "Dilly",
       "subtitle": "MiniMirror is the fastest way to access your front-facing camera.",
       "localizedDescription": "MiniMirror is the fastest way to access your front-facing camera. Designed for iOS 18+, it includes a Lock Screen control for one-tap access and a clean, distraction-free mirror interface.",
