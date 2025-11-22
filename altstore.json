@@ -31,7 +31,9 @@
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          "get-task-allow"
+        ],
         "privacy": {
           "NSCameraUsageDescription": "Need camera access to act as a mirror."
         }
