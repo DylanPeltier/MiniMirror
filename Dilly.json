@@ -1,0 +1,44 @@
+{
+  "name": "Dilly",
+  "subtitle": "All of the apps built by Dilly",
+  "description": "Here you'll find all of the apps built by Dilly.",
+  "iconURL": "https://i.imgur.com/x2CEaMn.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#0070dd",
+  "featuredApps": [],
+  "headerURL": "https://i.imgur.com/125uLYH.png",
+  "apps": [
+    {
+      "name": "MiniMirror",
+      "bundleIdentifier": "com.dylanpeltier.MiniMirror",
+      "marketplaceID": "",
+      "developerName": "Dilly",
+      "subtitle": "MiniMirror is the fastest way to access your front-facing camera.",
+      "localizedDescription": "MiniMirror is the fastest way to access your front-facing camera. Designed for iOS 18+, it includes a Lock Screen control for one-tap access and a clean, distraction-free mirror interface.",
+      "iconURL": "https://i.imgur.com/0basqXK.png",
+      "tintColor": "#cc4ccc",
+      "category": "lifestyle",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/DylanPeltier/MiniMirror/releases/download/v1.0.0/MiniMirror.ipa",
+          "size": 2000000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2025-11-22T12:58:00-05:00",
+          "localizedDescription": "• Initial release of MiniMirror\n• Opens the front-facing camera instantly for quick mirror access\n• Adds a Lock Screen control for one-tap launch\n• Adds a Control Centre toggle for even faster access\n• Optimized for low-latency camera startup\n• No onboarding, no clutter, just open an check yourself out",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Need camera access to act as a mirror."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
